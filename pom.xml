@@ -20,6 +20,11 @@
 			<artifactId>javax.servlet-api</artifactId>
 			<version>4.0.0</version>			
 		</dependency>
+		<dependency>
+			  <groupId>com.user.deploy</groupId>
+			  <artifactId>deploy-jar</artifactId>
+			  <version>1.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>${project.artifactId}</finalName>
